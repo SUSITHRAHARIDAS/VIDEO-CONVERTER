@@ -1,0 +1,24 @@
+
+
+.outer{
+    background-color:darkorange;
+    height:500px;
+    width:800px;
+    margin-left:20%;
+    margin-top:50px;
+    
+}
+h1{
+    padding-top:150px;
+    color:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+   
+}
+button{
+    margin-left: 43%;
+    margin-top:6%;
+}
+
+
